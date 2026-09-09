@@ -1,0 +1,15 @@
+{
+  "name": "genpark-jemalloc-slab-arena-allocator-skill",
+  "version": "1.0.0",
+  "description": "jemalloc-style high concurrency slab allocator with multi-size classes, bitmap run tracking, arena partitioning, and dirty page decay management.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "memory-allocator",
+    "slab-allocator",
+    "jemalloc",
+    "runtime-systems"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
